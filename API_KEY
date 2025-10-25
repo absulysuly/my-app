@@ -1,0 +1,12 @@
+# Setup Instructions
+
+## 1. Get Your Own FREE API Keys:
+- **OpenAI**: https://platform.openai.com/api-keys (free credits)
+- **Supabase**: https://supabase.com (free tier)
+- **GitHub Token**: https://github.com/settings/tokens
+
+## 2. Create .env file:
+```env
+OPENAI_API_KEY=your_own_openai_key_here
+SUPABASE_ANON_KEY=your_own_supabase_key_here
+GITHUB_TOKEN=your_own_github_token_here
